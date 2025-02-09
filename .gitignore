@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+__pycache__/
+
+# Large files (model, dataset)
+*.pkl
+*.h5
+*.csv
+*.sqlite3
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Node.js dependencies (frontend)
+node_modules/
+
+# Environment variables (API keys, secrets)
+.env
